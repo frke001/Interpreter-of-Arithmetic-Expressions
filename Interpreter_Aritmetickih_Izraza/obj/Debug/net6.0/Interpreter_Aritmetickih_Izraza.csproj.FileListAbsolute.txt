@@ -1,0 +1,2 @@
+D:\Podaci Preneseno\Nemanja\Desktop\Faks\2. GODINA\Cetvrti semestar\Formalne metode u softverskom inzenjerstvu\Interpreter_Aritmetickih_Izraza\Interpreter_Aritmetickih_Izraza\obj\Debug\net6.0\Interpreter_Aritmetickih_Izraza.csproj.AssemblyReference.cache
+D:\Podaci Preneseno\Nemanja\Desktop\Faks\2. GODINA\Cetvrti semestar\Formalne metode u softverskom inzenjerstvu\Interpreter_Aritmetickih_Izraza\Interpreter_Aritmetickih_Izraza\obj\Debug\net6.0\Interpreter_Aritmetickih_Izraza.GeneratedMSBuildEditorConfig.editorconfig

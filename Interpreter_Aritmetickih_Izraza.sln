@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpreter_Aritmetickih_Izraza", "Interpreter_Aritmetickih_Izraza\Interpreter_Aritmetickih_Izraza.csproj", "{AC88DDE4-43D6-4FEF-A88D-8D95ABD46587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter_Aritmetickih_Izraza_Test", "InterpreterAritmetickihIzrazaTest\Interpreter_Aritmetickih_Izraza_Test.csproj", "{68F14CF9-D283-4C80-BC37-E7B934BE59F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC88DDE4-43D6-4FEF-A88D-8D95ABD46587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC88DDE4-43D6-4FEF-A88D-8D95ABD46587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC88DDE4-43D6-4FEF-A88D-8D95ABD46587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC88DDE4-43D6-4FEF-A88D-8D95ABD46587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F14CF9-D283-4C80-BC37-E7B934BE59F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F14CF9-D283-4C80-BC37-E7B934BE59F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F14CF9-D283-4C80-BC37-E7B934BE59F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F14CF9-D283-4C80-BC37-E7B934BE59F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {831D68FD-47CE-4212-AA53-D023F7B5B3D6}
+	EndGlobalSection
+EndGlobal
